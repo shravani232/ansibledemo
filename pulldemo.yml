@@ -9,5 +9,5 @@
        debug:  
          var : ansible_hostname
      - name: print Ubuntu version
-         debug:  
+       debug:  
           var: ansible_distribution
